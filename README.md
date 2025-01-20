@@ -13,21 +13,17 @@
 
 ## 🚀 My Coding Journey
 
-🌟 **LeetCode Profile**: [LeetCode - Akshar2363](https://www.leetcode.com/u/Anmol2363)  
+🌟 **LeetCode Profile**: [LeetCode - Akshar2363](https://www.leetcode.com/u/Anmol2363)
 🎯 Solving algorithmic challenges to build a strong foundation in **data structures** and **algorithms**.
-
-🔄 **Latest GitHub Activity**:  
-- ✨ Pushed code regularly for personal projects and open-source contributions.  
-- 📂 Active in developing **Flutter applications** and **React projects**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Dart, JavaScript, Python, C  
-- **Frameworks/Libraries**: Flutter, React  
-- **Tools**: Git, VS Code, Node.js, MySQL, TailwindCSS  
-- **Others**: Firebase, CamerAwesome, XAMPP
+- **Languages**: JavaScript, Python, C/C++, Java, PHP
+- **Frameworks/Libraries**: Flutter, React, Node.js, TailwindCSS, Bootstrap 
+- **Tools**: Git, VS Code, Android Studio 
+- **Others**: Firebase, MySQL, MongoDB
 
 ---
 
